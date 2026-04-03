@@ -1,0 +1,23 @@
+# Arquivos de estado do Terraform (Contêm dados sensíveis da sua infra)
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Pastas de configuração e plugins (Ocupam muito espaço e são baixadas no init)
+.terraform/
+.terraform.lock.hcl
+
+# Variáveis sensíveis (Onde ficam senhas e chaves)
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Arquivos de log e sistema
+.DS_Store
+.history/
+.vscode/
+*.log
