@@ -56,7 +56,7 @@ A solução foi desenhada seguindo o **AWS Well-Architected Framework**, focando
 2. **Inicialização:** `terraform init`
 3. **Validação:** `terraform plan`
 4. **Deploy:** `terraform apply`
-
+```
 ---
 
 ## ⚖️ Conformidade Legal
