@@ -71,4 +71,4 @@ Este projeto implementa controles específicos para os seguintes artigos da **LG
 
 ---
 
-**Desenvolvido por Igor Pantoja.** *Especialista em Cloud Security & Infrastructure*
+**Desenvolvido por Igor Pantoja.** *Especialista em Cloud Security & GRC*
